@@ -1,0 +1,15 @@
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" version="2.0">
+    <channel>
+        <title>Podcast Title Here</title>
+                <item>
+                    <title>Episode Name 2</title>
+                    <link>
+                        https://www.dropbox.com/scl/fi/xbbmd6g34e47g76s8xjna/chapters-24-28.m4a?rlkey=wrycrm5bwfxi5u16roqw04ktt&st=s102n8qc&dl=1
+                    </link>
+                    <enclosure url="https://www.dropbox.com/scl/fi/xbbmd6g34e47g76s8xjna/chapters-24-28.m4a?rlkey=wrycrm5bwfxi5u16roqw04ktt&st=s102n8qc&dl=1" length="36715125" type="audio/mpeg"/>
+                    <guid>
+                        https://www.dropbox.com/scl/fi/xbbmd6g34e47g76s8xjna/chapters-24-28.m4a?rlkey=wrycrm5bwfxi5u16roqw04ktt&st=s102n8qc&dl=1
+                    </guid>
+                </item>
+    </channel>
+</rss>
